@@ -19,6 +19,7 @@ class EditSavedSearch extends StatelessWidget{
       ),
       body: Center(
         child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Padding(
               padding: const EdgeInsets.all(24.0),
